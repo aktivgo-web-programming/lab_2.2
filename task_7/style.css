@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+form {
+    letter-spacing : -.36em;
+    padding: 10px;
+}
+
+input {
+    width: 400px;
+    height: 30px;
+    padding: 0;
+    border: 1px 1px black;
+    font-size: 14px;
+}
+
+button {
+    height: 30px;
+    margin-left: 10px;
+    padding: 0 10px;
+    font-size: 14px;
+}
