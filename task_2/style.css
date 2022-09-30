@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.block {
+    margin: auto;
+    max-width: 600px;
+}
+
+.text-block {
+    background-color: lightgreen;
+    font-size: 14px;
+    padding: 10px;
+    margin: 10px 10px 0 10px;
+    align-self: center;
+    justify-self: center;
+}
