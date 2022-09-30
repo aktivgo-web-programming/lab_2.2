@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.main-block {
+    letter-spacing : -.36em;
+    background-color: lightcyan;
+    padding: 10px;
+}
+
+.inner-block-1{
+    display: inline-block;
+    letter-spacing : normal;
+    margin-right: 10px;
+}
+
+.inner-block-2{
+    display: inline-block;
+    vertical-align: top;
+    letter-spacing : normal;
+    margin-right: 10px;
+}
+
+.inner-block-3{
+    display: inline-block;
+    vertical-align: bottom;
+    letter-spacing : normal;
+}
+
+.text-block {
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+    align-self: center;
+    justify-self: center;
+}
