@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    letter-spacing : normal;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    letter-spacing : -.36em;
+}
+
+aside {
+    display: inline-block;
+    width: 100px;
+    padding-left: 10px;
+    font-size: 10px;
+}
+
+article {
+    display: inline-block;
+    width: calc(100% - 100px);
+    padding: 10px;
+}
