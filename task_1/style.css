@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.yellow-block {
+    background-color: yellow;
+    width: 66%;
+    height: 33%;
+    margin: 10px 0px 0px 10px;
+}
+
+.pink-block {
+    background-color: pink;
+    width: 66%;
+    height: 33%;
+    margin: 10px 10px auto auto;
+}
